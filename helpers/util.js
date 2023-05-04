@@ -5,6 +5,6 @@ class Response {
     }
   }
   
-  module.exports = {
+  mdule.exports = {
     Response
   }
